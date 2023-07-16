@@ -1,1 +1,2 @@
 # EDA-ON_ECOMMERCE_DATASET
+This project performs Exploratory Data Analysis on a comprehensive e-commerce dataset. Through data visualization and statistical analysis, it uncovers valuable insights into customer behavior, product trends, and sales patterns. The repository on GitHub showcases the code, findings, and interactive visualizations for better understanding and decision-making in the e-commerce domain.
